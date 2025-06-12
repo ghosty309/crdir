@@ -6,7 +6,7 @@ arch=('x86_64')
 url="https://github.com/ghosty309/crdir"
 license=('MIT')
 depends=('python')
-source=()
+source=("https://github.com/ghosty309/crdir/archive/refs/tags/v1.0.0.tar.gz")
 md5sums=()
 
 package() {
